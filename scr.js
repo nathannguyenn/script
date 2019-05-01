@@ -1,1 +1,1 @@
-<script>window.alert("some alerts.");</script>
+window.alert("some alerts.");

@@ -1,0 +1,1 @@
+<script>window.alert("some alerts.");</script>
